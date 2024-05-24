@@ -60,3 +60,10 @@ button:active{
 .operater-btn:active{
     background-color: rgb(240, 177, 5);
 }
+
+
+
+/* 
+function clearDisplay() {
+    display.value="";
+} */

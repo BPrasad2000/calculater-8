@@ -18,3 +18,6 @@ function calculate() {
     }
     
 }
+// function clearDisplay() {
+//     display.value="";
+// }
